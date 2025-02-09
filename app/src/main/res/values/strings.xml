@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BonFire</string>
+    <string name="About">
+        Our app makes it easy to explore and discover books.
+        Search for titles and save your favorites to revisit later.
+        Whether you\'re looking for your next read or building a personal collection,
+        we\'ve got you covered. Start exploring and find your perfect book today!
+    </string>
+    <string name="favorites_tip">Add a book to your favorites by tapping the heart icon on the details page</string>
+    <string name="no_favorites">You currently don\'t have any favorites</string>
+    <string name="delete_favorites_text">This will delete all favorites. Are you sure you want to proceed with this action?</string>
+</resources>
