@@ -30,7 +30,7 @@ BonFire is an Android application built with Jetpack Compose, offering a  way to
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/luka-c/books_app.git
-   cd FirebaseApp
+   cd BooksCompose
    ```
 
 2. **Open the project in Android Studio:**
